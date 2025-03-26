@@ -33,7 +33,7 @@ Puedes instalar las dependencias con:
 ```bash
 pip install pandas numpy matplotlib seaborn scikit-learn
 ```
-Se brindara del archivo para su uso
+Para su uso se necesita descargar el siguiente archivo https://mega.nz/file/d5VzibYD#YHa07N3SnqFLk8whMEel8KguFgLVfWpPouZf0-PfSV8
 
 ## Uso
 
